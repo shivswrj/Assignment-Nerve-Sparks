@@ -1,0 +1,8 @@
+openai-whisper
+pydub
+librosa
+sentence-transformers
+chromadb
+pyannote.audio
+torch
+streamlit
